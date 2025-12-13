@@ -1878,5 +1878,26 @@ textarea.form-input::-webkit-resizer { display: none; }
 	 */
 
   .timeline-text { max-width: 700px; }
+  
+  /*-----------------------------------*\
+  #AVATAR POLISHED ROUND STYLE
+\*-----------------------------------*/
+
+.avatar-box {
+  width: 100%;
+  max-width: 240px;
+  aspect-ratio: 1.6 / 1;
+  border-radius: 22px;
+  overflow: hidden;
+  background: var(--bg-gradient-onyx);
+  box-shadow: var(--shadow-2);
+}
+
+.avatar-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 
 }
