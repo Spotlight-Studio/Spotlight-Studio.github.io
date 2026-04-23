@@ -1,3 +1,4 @@
+facebook.com, 2166281280123778, DIRECT, c3e20eee3f780d68
 google.com, pub-6645276434483485, DIRECT, f08c47fec0942fa0
 lacunads.com, lcb555b3bc8667a09a, RESELLER
 openx.com, 559912325, RESELLER, 6a698e2ec38604c6
